@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SignUp-Form/static/css/main.6c4b2b18.css",
+    "main.js": "/SignUp-Form/static/js/main.7d783c30.js",
+    "index.html": "/SignUp-Form/index.html",
+    "main.6c4b2b18.css.map": "/SignUp-Form/static/css/main.6c4b2b18.css.map",
+    "main.7d783c30.js.map": "/SignUp-Form/static/js/main.7d783c30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c4b2b18.css",
+    "static/js/main.7d783c30.js"
+  ]
+}
